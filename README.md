@@ -36,7 +36,7 @@ O Rocket.Html é um projeto utilizado para agregar links e utilizar como cartão
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/tUi2gPwSf1gi3PkACVnKQ5/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=rYFdXUZ0854stybs-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/tUi2gPwSf1gi3PkACVnKQ5/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=rYFdXUZ0854stybs-0/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
