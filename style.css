@@ -74,7 +74,7 @@ body * {
   border-radius: 50%;
 
   position: absolute;
-  z-index: 1; 
+  z-index: 1;
   left: 0;
   transform: translateY(-50%);
   top: 50%;
@@ -94,7 +94,6 @@ body * {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
-
 }
 
 /* Links */
@@ -155,7 +154,7 @@ ul li a:hover {
 }
 
 .social-links a:hover {
-  background: var(--highlight-color)
+  background: var(--highlight-color);
 }
 
 footer {
@@ -163,4 +162,16 @@ footer {
   text-align: center;
   font-size: 14px;
   color: var(--text-color);
+}
+
+/* media queries */
+
+@media (min-width: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
 }
